@@ -5,14 +5,12 @@ SigillPlayer ist ein interaktiver Editor für für Android, mit dem sich aus Tex
 SigillPlayer stellt eingegebene Wörter und Buchstaben im lateinischen oder hebräischen Buchstaben oder im magischen Malachim-Alphabet dar und erzeugt durch Verbinden der Zeichen ein Sigill. Unterstützt werden kreisförmige und quadratische Darstellung, Hintergrundbilder sowie eine Animation des Sigills.
 
 # Funktionen im Überblick
-Individuelle Zeichensätze & Befehle: Eigene PNG-Zeichen (inkl. Sonderzeichen) und vordefinierte Planetenquadrate (*saturn, *jupiter, *mars, *sonne, *venus, *merkur, *mond).
+**Individuelle Zeichensätze:** Es können lateinische oder hebräische Buchstaben sowie das Malachim-"Alphabet der Engel" des Magiers Agrippa von Nettesheim verwendet werden. Verschiedene Zeichenkombinationen wie sch, sh, th werden unterstützt.
 
-Flexible Anordnungen: Kreismodus und Planetenquadrat-Modus mit mehreren farbigen Sigils gleichzeitig.
+**Flexible Anordnung:** Kreismodus und Quadrat-Modus mit mehreren farbigen Linienzügen sind möglich. Planetenquadrate von Saturn, Jupiter, Mars, Sonne, Venus, Merkur und Mond sond vordefiniert.
 
-Gestensteuerung: Wischen für Radius/Größe, Winkel, Geschwindigkeit und Spurlänge; langes Drücken für Hintergrundbild laden/löschen oder ausblenden; Doppeltipp wechselt die Anzeige-Modi (statisch → Export → Animation).
+**Einstellbare Parameter:** Wischen für Radius/Größe, Geschwindigkeit und Spurlänge der Animation; langes Drücken zum Einfügen eines beliebigen Hintergrundbildes; Doppeltipp wechselt die Anzeige-Modi (Kreis/Quadrat, statisch/Animation).
 
-Anpassbares Layout & Animation: Zeichengröße, Linienstärke, Startwinkel, Trail-Härte und Hintergrundskalierung sind direkt per Geste einstellbar.
-
-Direkter Export: Fertige Sigils werden als transparente PNG-Datei in /Pictures/Sigill/ gespeichert.
+**Export:** Statische Sigille werden als transparente PNG-Datei in /Pictures/Sigill/ gespeichert.
 
 <mark>Der Installer meldet ein veraltetes Android, da die App mit APDE (Processing) erstellt wurde – „Trotzdem installieren“ auswählen.</mark>
