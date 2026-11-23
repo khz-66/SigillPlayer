@@ -1,4 +1,4 @@
-SigillPlayer ist ein interaktiver Editor für für Android, mit dem sich aus Texten magische Siegel (Sigille) in Kreis- oder Planetenquadrat-Anordnung erzeugen, animieren und als PNG exportieren lassen.
+SigillPlayer ist ein interaktiver Editor für für Android, mit dem sich aus Texten magische Siegel (Sigille) in Kreis- oder Quadrat-Anordnung erzeugen, animieren und als PNG exportieren lassen.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-DFFF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khz66)
 
